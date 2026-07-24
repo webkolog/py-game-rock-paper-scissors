@@ -31,7 +31,7 @@ To run this game locally, ensure you have Python installed on your system.
 
 1. Clone this repository or download the source file:
    ```bash
-   git clone [https://github.com/webkolog/py-game-rock-paper-scissors.git](https://github.com/webkolog/py-game-rock-paper-scissors.git)
+   git clone https://github.com/webkolog/py-game-rock-paper-scissors.git
 
 ```
 
