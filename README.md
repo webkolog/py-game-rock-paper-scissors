@@ -1,6 +1,7 @@
 # PY GAME Rock Paper Scissors
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Version:** 1.0
 
 **Created Date:** 2026-07-24
