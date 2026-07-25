@@ -1,6 +1,8 @@
 # PY GAME Rock Paper Scissors
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python: 3.7+](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![CI: GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-brightgreen.svg)](https://github.com/webkolog/py-book-reporter/actions)
 
 **Version:** 1.0
 
@@ -8,7 +10,7 @@
 
 **Last Updated:** 2026-07-24
 
-**Compatibility:** Python 3.x
+**Compatibility:** Python 3.7+
 
 **Created By:** Ali Candan ([@webkolog](https://github.com/webkolog))
 
